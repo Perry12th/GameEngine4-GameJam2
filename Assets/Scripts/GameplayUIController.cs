@@ -31,6 +31,6 @@ public class GameplayUIController : MonoBehaviour
 
     public void OnQuit()
     {
-        SceneManager.LoadScene("MainMenuScene");
+        SceneManager.LoadScene("MainMenuScreen");
     }
 }
